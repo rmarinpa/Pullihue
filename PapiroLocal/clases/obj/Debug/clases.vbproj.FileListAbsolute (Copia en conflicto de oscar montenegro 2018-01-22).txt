@@ -1,0 +1,228 @@
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\germa\Dropbox\Importante\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\germa\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-25\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-08-28\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-08\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-09-22 - copia\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-20\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-25\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-10-30\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-11-03\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\rxzio\Documents\Trabajos\Papiro\2017-12-06\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\2017-12-28\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\Trabajos\2018-01-11\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\Trabajos\2018-01-15\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\obj\Debug\clases.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\Trabajos\2018-01-17\sistema-matricula-mysql\clases\obj\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\bin\Debug\clases.dll.config
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\obj\Debug\clases.Resources.resources
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\obj\Debug\clases.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\obj\Debug\clases.dll
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\obj\Debug\clases.xml
+C:\Users\USUARIO\Documents\Trabajos\2018-01-19\sistema-matricula-mysql\clases\obj\Debug\clases.pdb

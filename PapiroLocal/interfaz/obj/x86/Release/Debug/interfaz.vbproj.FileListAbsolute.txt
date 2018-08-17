@@ -1,0 +1,93 @@
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.exe.config
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbproj.ResolveComReference.cache
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.exe.manifest
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.application
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.pdb
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.xml
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\bin\Debug\clases.dll
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\bin\Debug\clases.pdb
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\bin\Debug\clases.xml
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_facturas.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ofertas_dia.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_despacho2.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_despacho.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal2.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_mod.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_complementario2.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_complementario1.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_sustito2.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_sustito1.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_productos_busqueda.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_clientes_busqueda.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario_conf2.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario_conf.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho2.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_prod_despachados.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_guia_despacho.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_despachos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_detalle_venta.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_clientes.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_ventas.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Contrato_adm.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Complementarios.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Sustitutos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_lc_representates.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_parametros_adm.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_administracion.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_descuentos_subcontratos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_subcontratos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_categoria_maq.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo_varios.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_avance_subcontratos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tipo_trabajo.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_estados_de_pago.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago_subcontrato.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_registro_subcontratos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_subcontrato.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tipo_subcontrato.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Subcontratos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago_maquinaria.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ficha_maquinaria.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ficha_trabajador.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_storage.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tabla_uf.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_liquidacion_maq.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_parametros_configuracion.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal_todos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.descargar_datos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_descuentos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Codigo_petroleo.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Form1.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_codigo_petroleo.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Tipo_maq.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_plan_de_cuentas.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Compra_Petroleo.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cuenta_contable.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_petroleo.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_reports.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Clientes_Productos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_contratos.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Contrato.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_configuracion.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_reports.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_autor.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_curso.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estudiante.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_login.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_matricula.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_principal.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Resources.resources
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbproj.GenerateResource.Cache
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.exe.manifest
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.application
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.exe
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.xml
+C:\Users\germa\Dropbox\Importante\Papiro Rev.2\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.pdb

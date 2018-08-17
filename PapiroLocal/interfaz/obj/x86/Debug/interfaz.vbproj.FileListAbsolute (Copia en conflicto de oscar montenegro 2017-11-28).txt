@@ -1,0 +1,663 @@
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.exe.config
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.exe.manifest
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.application
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.pdb
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.xml
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\clases.dll
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\clases.pdb
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\clases.xml
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbproj.ResolveComReference.cache
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_aut.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho6.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho5.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_obs_llegada2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_obs_llegada.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Rutas.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_concluir_guía_despacho_parcial.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar_gd.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_consulta_np.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_guia.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_conultaCheque.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cr_guia_despacho.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cr_nota_credito.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_ruta_cliente.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usua_log.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuarios_adm.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo_list.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_guia.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_pendiente_facturar.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_guias.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_doc2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_guias.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_guias_clientes_busqueda.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente13.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente12.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente11.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Estado_de_cuenta_todos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_autorizacion.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_orden_retiro2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_orden_retiro.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_resumen_autorizaciones.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_observacion.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_bloqueo_inf.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_rp.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_nc.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_bloqueo.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_administracion2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llegada2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_EC.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_pago.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_cuenta.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_retiro_documentos_2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_facturas_cliente.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_ejecutivos2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_retiro_documentos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_ejec2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_ejec.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho4.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_folios.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_pedido_fact.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_facturacion.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_4_2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ruta_clientes_busqueda.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_mod_pagos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_serv.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_solicitud_servicio.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_6.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_5.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_4.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_3.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Nota_Credito_aut.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Nota_Credito.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_serv_tec.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_agenda.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_programar_agenda.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_rutas.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho3.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_agenda2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_logistica.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar_nc.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_autorizacion.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_imp.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_sol_nota_credito.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_1.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_informes_cobranza.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ingresos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_visualizar_autorizar2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut3.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_visualizar_autorizar.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_prueba.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_facturas.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_pagos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_pagos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llegada.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta1.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_ruta.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ruta.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_agenda.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_ruta.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_com.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_asociar.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_planificacion.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_avg.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_agv.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_vrm.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_tbv.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_fma.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada6.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada5.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada4.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_llamada.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llamadas.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llamada.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_cobranza.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_ejecutivos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_pedido.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.datos_compra.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Compra.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_compras.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_compras.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.datos_nota.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_categorias.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_mod_2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ejeuctivo_producto.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ejeuctivo.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_facturas.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ofertas_dia.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_despacho2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_despacho.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_mod.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_complementario2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_complementario1.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_sustito2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_sustito1.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_productos_busqueda.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_clientes_busqueda.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario_conf2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario_conf.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho2.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_prod_despachados.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_doc.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_despachos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_detalle_venta.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_clientes.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_ventas.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Contrato_adm.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Complementarios.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Sustitutos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_lc_representates.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_parametros_adm.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_administracion.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_descuentos_subcontratos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_subcontratos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_categoria_maq.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo_varios.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_avance_subcontratos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tipo_trabajo.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_estados_de_pago.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago_subcontrato.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_registro_subcontratos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_subcontrato.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tipo_subcontrato.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Subcontratos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago_maquinaria.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ficha_maquinaria.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ficha_trabajador.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_storage.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tabla_uf.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_liquidacion_maq.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_parametros_configuracion.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal_todos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.descargar_datos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_descuentos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Codigo_petroleo.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Form1.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_codigo_petroleo.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Tipo_maq.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_plan_de_cuentas.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Compra_Petroleo.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cuenta_contable.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_petroleo.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_reports.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Clientes_Productos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_contratos.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Contrato.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_configuracion.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_servicio.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_reports.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_autor.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_curso.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estudiante.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_login.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_matricula.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_principal.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Resources.resources
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbproj.GenerateResource.Cache
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.TrustInfo.xml
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.exe.manifest
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.application
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.exe
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.xml
+C:\Users\German\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.exe.config
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbproj.ResolveComReference.cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.exe
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.exe.manifest
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.application
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\bin\Debug\clases.dll
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\bin\Debug\clases.pdb
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\bin\Debug\clases.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_aut.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho6.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho5.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_obs_llegada2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_obs_llegada.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Rutas.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_concluir_guía_despacho_parcial.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar_gd.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_consulta_np.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_guia.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_conultaCheque.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cr_guia_despacho.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cr_nota_credito.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_ruta_cliente.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usua_log.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuarios_adm.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo_list.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_guia.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_pendiente_facturar.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_guias.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_doc2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_guias.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_guias_clientes_busqueda.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente13.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente12.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente11.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Estado_de_cuenta_todos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_autorizacion.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_orden_retiro2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_orden_retiro.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_resumen_autorizaciones.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_observacion.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_bloqueo_inf.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_rp.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_nc.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_bloqueo.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_administracion2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llegada2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_EC.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_pago.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_cuenta.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_retiro_documentos_2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_facturas_cliente.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_ejecutivos2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_retiro_documentos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_ejec2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_ejec.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho4.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_folios.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_pedido_fact.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_facturacion.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_4_2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ruta_clientes_busqueda.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_mod_pagos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_serv.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_solicitud_servicio.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_6.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_5.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_4.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_3.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Nota_Credito_aut.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Nota_Credito.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_serv_tec.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_agenda.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_programar_agenda.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_rutas.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho3.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_agenda2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_logistica.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar_nc.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_autorizacion.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_imp.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_sol_nota_credito.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_1.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_informes_cobranza.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ingresos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_visualizar_autorizar2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut3.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_visualizar_autorizar.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_prueba.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_facturas.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_pagos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_pagos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llegada.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta1.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_ruta.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ruta.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_agenda.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_ruta.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_com.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_asociar.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_planificacion.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_avg.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_agv.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_vrm.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_tbv.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_fma.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada6.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada5.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada4.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_llamada.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llamadas.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llamada.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_cobranza.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_ejecutivos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_pedido.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.datos_compra.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Compra.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_compras.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_compras.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.datos_nota.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_categorias.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_mod_2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ejeuctivo_producto.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ejeuctivo.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_facturas.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ofertas_dia.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_despacho2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_despacho.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_mod.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_complementario2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_complementario1.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_sustito2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_sustito1.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_productos_busqueda.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_clientes_busqueda.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario_conf2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario_conf.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho2.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_prod_despachados.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_doc.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_despachos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_detalle_venta.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_clientes.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_ventas.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Contrato_adm.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Complementarios.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Sustitutos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_lc_representates.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_parametros_adm.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_administracion.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_descuentos_subcontratos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_subcontratos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_categoria_maq.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo_varios.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_avance_subcontratos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tipo_trabajo.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_estados_de_pago.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago_subcontrato.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_registro_subcontratos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_subcontrato.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tipo_subcontrato.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Subcontratos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago_maquinaria.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ficha_maquinaria.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ficha_trabajador.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_storage.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tabla_uf.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_liquidacion_maq.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_parametros_configuracion.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal_todos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.descargar_datos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_descuentos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Codigo_petroleo.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Form1.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_codigo_petroleo.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Tipo_maq.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_plan_de_cuentas.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Compra_Petroleo.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cuenta_contable.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_petroleo.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_reports.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Clientes_Productos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_contratos.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Contrato.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_configuracion.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_servicio.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_reports.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_autor.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_curso.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estudiante.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_login.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_matricula.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_principal.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Resources.resources
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.TrustInfo.xml
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.exe.manifest
+C:\Users\USUARIO\Documents\Programacion\Papiro\2017-11-23\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.application
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.exe.config
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.exe.manifest
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.application
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.pdb
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\Programa Papiro.xml
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\clases.dll
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\clases.pdb
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\bin\Debug\clases.xml
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbproj.ResolveComReference.cache
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_aut.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho6.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho5.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_obs_llegada2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_obs_llegada.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Rutas.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_concluir_guía_despacho_parcial.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar_gd.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_consulta_np.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_guia.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_conultaCheque.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cr_guia_despacho.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cr_nota_credito.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_ruta_cliente.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usua_log.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuarios_adm.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo_list.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_guia.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_pendiente_facturar.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_guias.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_doc2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_guias.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_guias_clientes_busqueda.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente13.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente12.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente11.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Estado_de_cuenta_todos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_EC_Cliente.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_autorizacion.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_orden_retiro2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_orden_retiro.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_resumen_autorizaciones.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_observacion.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_bloqueo_inf.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_rp.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_nc.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_bloqueo.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_administracion2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llegada2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_EC.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_pago.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_cuenta.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_retiro_documentos_2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_facturas_cliente.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_ejecutivos2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_retiro_documentos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_ejec2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_ejec.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho4.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_folios.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_pedido_fact.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_facturacion.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_4_2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ruta_clientes_busqueda.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_mod_pagos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_serv.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_solicitud_servicio.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_6.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_5.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_4.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_3.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Nota_Credito_aut.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Nota_Credito.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_serv_tec.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda_agenda.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_programar_agenda.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_rutas.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho3.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_agenda2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_logistica.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar_nc.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_autorizacion.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates_imp.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_sol_nota_credito.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_cobranza_1.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_informes_cobranza.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ingresos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_visualizar_autorizar2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut3.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_visualizar_autorizar.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_aut.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_autorizar.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_prueba.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_facturas.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_pagos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_pagos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llegada.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta1.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_ruta.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ruta.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_agenda.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_hoja_de_ruta.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_ruta.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_com.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_asociar.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_planificacion.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_avg.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_agv.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_vrm.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_tbv.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho_fma.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada6.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada5.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada4.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_llamada.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llamadas.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Registro_llamada.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_clientes_busqueda.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_llamada.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_cobranza.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Resumen_ejecutivos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_consulta_pedido.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.datos_compra.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Compra.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_compras.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_compras.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.datos_nota.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_categorias.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_mod_2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ejeuctivo_producto.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_informe_ejeuctivo.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_facturas.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ofertas_dia.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_despacho2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_despacho.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_mod.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_complementario2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_complementario1.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_sustito2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_productos_sustito1.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_productos_busqueda.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_clientes_busqueda.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario_conf2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario_conf.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho2.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_prod_despachados.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_guia_de_despacho.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_sel_doc.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_despachos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_detalle_venta.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas_clientes.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_ventas.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_ventas.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Contrato_adm.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Complementarios.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Sustitutos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_lc_representates.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_parametros_adm.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_administracion.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_descuentos_subcontratos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_subcontratos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_categoria_maq.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo_varios.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_avance_subcontratos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tipo_trabajo.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_estados_de_pago.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago_subcontrato.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_registro_subcontratos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_subcontrato.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tipo_subcontrato.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Subcontratos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago_maquinaria.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ficha_maquinaria.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_ficha_trabajador.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_storage.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_tabla_uf.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_liquidacion_maq.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_parametros_configuracion.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_principal_todos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.descargar_datos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_descuentos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estado_de_pago.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.CR_Codigo_petroleo.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Form1.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_codigo_petroleo.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Tipo_maq.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_plan_de_cuentas.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Compra_Petroleo.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_cuenta_contable.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_petroleo.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_registro_reports.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Clientes_Productos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_contratos.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_Contrato.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_representates.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_configuracion.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_menu_servicio.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_Petroleo.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Frm_reports.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_autor.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_curso.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_estudiante.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_login.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_matricula.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_principal.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.frm_usuario.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Constructora_FV.Resources.resources
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\interfaz.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.TrustInfo.xml
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.exe.manifest
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.application
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.exe
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.xml
+C:\Users\USUARIO\Dropbox\Papiro Rev.3\sistema-matricula-mysql\interfaz\obj\x86\Debug\Programa Papiro.pdb
